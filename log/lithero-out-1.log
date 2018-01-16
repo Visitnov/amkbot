@@ -1,0 +1,369 @@
+2017-11-15 11:44:10: Inside index.js
+2017-11-15 11:44:10: Listening on port 8099
+2017-11-15 12:09:40: Inside index.js
+2017-11-15 12:09:41: Listening on port 8099
+2017-11-15 12:20:57: Inside index.js
+2017-11-15 12:20:58: Listening on port 8099
+2017-11-15 12:26:08: Inside index.js
+2017-11-15 12:26:09: Inside index.js
+2017-11-15 12:26:10: Inside index.js
+2017-11-15 12:26:11: Inside index.js
+2017-11-15 12:26:11: Inside index.js
+2017-11-15 12:26:12: Inside index.js
+2017-11-15 12:26:13: Inside index.js
+2017-11-15 12:26:13: Inside index.js
+2017-11-15 12:26:14: Inside index.js
+2017-11-15 12:26:15: Inside index.js
+2017-11-15 12:26:16: Inside index.js
+2017-11-15 12:26:16: Inside index.js
+2017-11-15 12:26:17: Inside index.js
+2017-11-15 12:26:18: Inside index.js
+2017-11-15 12:26:18: Inside index.js
+2017-11-15 12:26:19: Inside index.js
+2017-11-15 12:26:19: Inside index.js
+2017-11-15 19:01:18: Inside index.js
+2017-11-15 19:01:18: Listening on port 8099
+2017-11-15 19:02:00: senderId : 1814660568576532
+2017-11-15 19:02:00: 1814660568576532
+2017-11-15 19:02:01: senderId : 303926986763806
+2017-11-15 19:02:01: 303926986763806
+2017-11-15 19:02:01: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'D0w2/Upf97s' }
+2017-11-15 19:02:01: senderId : 1814660568576532
+2017-11-15 19:02:02: senderId : 1814660568576532
+2017-11-15 19:02:04: senderId : 1814660568576532
+2017-11-15 19:02:04: 1814660568576532
+2017-11-15 19:02:05: senderId : 303926986763806
+2017-11-15 19:02:05: 303926986763806
+2017-11-15 19:02:05: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DN2o5U9AYc+' }
+2017-11-15 19:02:05: senderId : 1814660568576532
+2017-11-15 19:02:06: senderId : 1814660568576532
+2017-11-19 10:36:14: senderId : 1814660568576532
+2017-11-19 10:36:14: 1814660568576532
+2017-11-19 10:36:15: senderId : 303926986763806
+2017-11-19 10:36:15: 303926986763806
+2017-11-19 10:36:15: senderId : 1814660568576532
+2017-11-19 10:36:15: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'HxsbQ8iwtCz' }
+2017-11-19 10:36:16: senderId : 1814660568576532
+2017-11-19 10:36:18: senderId : 1814660568576532
+2017-11-19 10:36:18: 1814660568576532
+2017-11-19 10:36:20: senderId : 303926986763806
+2017-11-19 10:36:20: 303926986763806
+2017-11-19 10:36:20: senderId : 1814660568576532
+2017-11-19 10:36:20: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'A+Diplq0WCN' }
+2017-11-19 10:36:21: senderId : 1814660568576532
+2017-11-19 10:36:22: senderId : 1814660568576532
+2017-11-19 10:36:22: 1814660568576532
+2017-11-19 10:36:23: senderId : 303926986763806
+2017-11-19 10:36:23: 303926986763806
+2017-11-19 10:36:23: senderId : 1814660568576532
+2017-11-19 10:36:24: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'GkkwNNzuTAF' }
+2017-11-19 10:36:24: senderId : 1814660568576532
+2017-11-19 10:36:31: senderId : 1814660568576532
+2017-11-19 10:36:31: 1814660568576532
+2017-11-19 10:36:32: senderId : 303926986763806
+2017-11-19 10:36:32: 303926986763806
+2017-11-19 10:36:33: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'BQYOfit6smM' }
+2017-11-19 10:36:33: senderId : 1814660568576532
+2017-11-19 10:36:33: senderId : 1814660568576532
+2017-11-19 10:36:36: senderId : 1814660568576532
+2017-11-19 10:36:36: 1814660568576532
+2017-11-19 10:36:37: senderId : 303926986763806
+2017-11-19 10:36:37: 303926986763806
+2017-11-19 10:36:38: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'DJ5L4wYPWCE' }
+2017-11-19 10:36:38: senderId : 1814660568576532
+2017-11-19 10:36:38: senderId : 1814660568576532
+2017-11-19 10:36:39: senderId : 1814660568576532
+2017-11-19 10:36:39: 1814660568576532
+2017-11-19 10:36:41: senderId : 303926986763806
+2017-11-19 10:36:41: 303926986763806
+2017-11-19 10:36:41: senderId : 1814660568576532
+2017-11-19 10:36:41: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'HW1CrTWCj6F' }
+2017-11-19 10:36:41: senderId : 1814660568576532
+2017-11-19 10:36:43: senderId : 1814660568576532
+2017-11-19 10:36:43: 1814660568576532
+2017-11-19 10:36:44: senderId : 303926986763806
+2017-11-19 10:36:44: 303926986763806
+2017-11-19 10:36:44: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'G5ykAUGH+/J' }
+2017-11-19 10:36:44: senderId : 1814660568576532
+2017-11-19 10:36:44: senderId : 1814660568576532
+2017-11-19 10:36:46: senderId : 1814660568576532
+2017-11-19 10:36:46: 1814660568576532
+2017-11-19 10:36:47: senderId : 303926986763806
+2017-11-19 10:36:47: 303926986763806
+2017-11-19 10:36:47: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'Hghx2zXugNQ' }
+2017-11-19 10:36:47: senderId : 1814660568576532
+2017-11-19 10:36:48: senderId : 1814660568576532
+2017-11-19 10:36:49: senderId : 1814660568576532
+2017-11-19 10:36:49: 1814660568576532
+2017-11-19 10:36:50: senderId : 303926986763806
+2017-11-19 10:36:50: 303926986763806
+2017-11-19 10:36:50: senderId : 1814660568576532
+2017-11-19 10:36:50: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'H03baBE7jHP' }
+2017-11-19 10:36:51: senderId : 1814660568576532
+2017-11-19 10:36:53: senderId : 1814660568576532
+2017-11-19 10:36:54: senderId : 1814660568576532
+2017-11-19 10:36:54: 1814660568576532
+2017-11-19 10:36:55: senderId : 303926986763806
+2017-11-19 10:36:55: 303926986763806
+2017-11-19 10:36:56: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'BY/v5zCf0Kb' }
+2017-11-19 10:36:56: senderId : 1814660568576532
+2017-11-19 10:36:56: senderId : 1814660568576532
+2017-11-19 10:36:58: senderId : 1814660568576532
+2017-11-19 10:36:58: 1814660568576532
+2017-11-19 10:36:59: senderId : 303926986763806
+2017-11-19 10:36:59: 303926986763806
+2017-11-19 10:36:59: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'BsuRfd5tFLV' }
+2017-11-19 10:37:00: senderId : 1814660568576532
+2017-11-19 10:37:00: senderId : 1814660568576532
+2017-11-19 10:37:04: senderId : 1814660568576532
+2017-11-19 10:37:04: 1814660568576532
+2017-11-19 10:37:05: senderId : 303926986763806
+2017-11-19 10:37:05: 303926986763806
+2017-11-19 10:37:05: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'GMi21U52Jlv' }
+2017-11-19 10:37:06: senderId : 1814660568576532
+2017-11-19 10:37:07: senderId : 1814660568576532
+2017-11-19 10:37:10: senderId : 1814660568576532
+2017-11-19 10:37:10: 1814660568576532
+2017-11-19 10:37:10: 1814660568576532
+2017-11-19 10:37:11: senderId : 303926986763806
+2017-11-19 10:37:11: 303926986763806
+2017-11-19 10:37:12: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'HDyB6VU87I1' }
+2017-11-19 10:37:12: senderId : 1814660568576532
+2017-11-19 10:37:12: senderId : 1814660568576532
+2017-11-19 10:37:12: senderId : 303926986763806
+2017-11-19 10:37:12: 303926986763806
+2017-11-19 10:37:12: senderId : 1814660568576532
+2017-11-19 10:37:12: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'FFcqSj9LXGl' }
+2017-11-19 10:37:13: senderId : 1814660568576532
+2017-11-19 10:37:55: senderId : 1814660568576532
+2017-11-19 10:37:55: 1814660568576532
+2017-11-19 10:37:57: senderId : 303926986763806
+2017-11-19 10:37:57: senderId : 1814660568576532
+2017-11-19 10:37:58: senderId : 1814660568576532
+2017-11-19 10:38:10: senderId : 1814660568576532
+2017-11-20 13:20:23: Inside index.js
+2017-11-20 13:20:24: Listening on port 8099
+2017-11-20 13:20:36: senderId : 1814660568576532
+2017-11-20 13:20:36: 1814660568576532
+2017-11-20 13:20:38: senderId : 303926986763806
+2017-11-20 13:20:38: 303926986763806
+2017-11-20 13:20:38: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'GkTYekoF/Qo' }
+2017-11-20 13:20:38: senderId : 1814660568576532
+2017-11-20 13:20:40: senderId : 1814660568576532
+2017-11-20 13:20:50: senderId : 1814660568576532
+2017-11-20 13:20:50: 1814660568576532
+2017-11-20 13:20:52: senderId : 303926986763806
+2017-11-20 13:20:52: 303926986763806
+2017-11-20 13:20:52: senderId : 1814660568576532
+2017-11-20 13:20:52: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CI6mVWAOljF' }
+2017-11-20 13:20:53: senderId : 1814660568576532
+2017-11-20 13:21:43: Inside index.js
+2017-11-20 13:21:44: Listening on port 8099
+2017-11-20 13:21:50: senderId : 1814660568576532
+2017-11-20 13:21:50: 1814660568576532
+2017-11-20 13:21:51: senderId : 303926986763806
+2017-11-20 13:21:51: 303926986763806
+2017-11-20 13:21:52: senderId : 1814660568576532
+2017-11-20 13:21:52: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'FWZu6JZ2U/T' }
+2017-11-20 13:21:52: senderId : 1814660568576532
+2017-11-20 13:22:34: Inside index.js
+2017-11-20 13:22:35: Listening on port 8099
+2017-11-20 13:22:41: senderId : 1814660568576532
+2017-11-20 13:22:41: 1814660568576532
+2017-11-20 13:22:42: senderId : 303926986763806
+2017-11-20 13:22:42: 303926986763806
+2017-11-20 13:22:43: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'HJ/Nd6wCo2e' }
+2017-11-20 13:22:43: senderId : 1814660568576532
+2017-11-20 13:22:44: senderId : 1814660568576532
+2017-11-20 13:23:54: Inside index.js
+2017-11-20 13:23:54: Listening on port 8099
+2017-11-20 13:24:02: senderId : 1814660568576532
+2017-11-20 13:24:02: 1814660568576532
+2017-11-20 13:24:04: senderId : 303926986763806
+2017-11-20 13:24:04: 303926986763806
+2017-11-20 13:24:04: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'H8mikkFWMQV' }
+2017-11-20 13:24:04: senderId : 1814660568576532
+2017-11-20 13:24:05: senderId : 1814660568576532
+2017-11-20 13:25:16: Inside index.js
+2017-11-20 13:25:16: Listening on port 8099
+2017-11-20 13:25:19: senderId : 1814660568576532
+2017-11-20 13:25:19: 1814660568576532
+2017-11-20 13:25:20: senderId : 303926986763806
+2017-11-20 13:25:20: 303926986763806
+2017-11-20 13:25:21: senderId : 1814660568576532
+2017-11-20 13:25:21: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CUqylWmbhh7' }
+2017-11-20 13:25:21: senderId : 1814660568576532
+2017-12-05 11:18:58: Inside index.js
+2017-12-05 11:19:00: Listening on port 8099
+2017-12-07 10:20:56: Inside index.js
+2017-12-07 10:20:58: Listening on port 8099
+2017-12-07 12:49:02: Inside index.js
+2017-12-07 12:49:04: Listening on port 8099
+2017-12-08 11:21:45: Inside index.js
+2017-12-08 11:21:47: Listening on port 8099
+2017-12-08 13:23:08: Inside index.js
+2017-12-08 13:23:10: Listening on port 8099
+2017-12-12 11:54:44: Inside index.js
+2017-12-12 11:54:45: Listening on port 8099
+2017-12-12 11:54:46: Error menu request :  { message: 'Your message couldn\'t be sent because it includes content that other people on Facebook have reported as abusive.',
+  type: 'OAuthException',
+  code: 368,
+  error_data: 
+   { sentry_block_data: 'AegCxn2u0IbCAtl1c01JUWfTn88dzzCLCcoa0DqsWCPl7D7oo3y8w0nKv4FeNbbZp43wYqNHfkY_zHi6byZT2esen6Rd0y2TTxsKN9l7iWXfgSAR7w1DhNmxpwELytDlMc8EKUdPbIWcgpoBZ2t4BTamwEbE6o1hC7VxQzVWHDgLhWtLmC_607aGEbyMSgu6Tv005Gn-dgLWJvNxAF6u65IVgMvO3WOPl7ZE3aOZOI2W5oD3lXLuGY95ovdWSiYZF61atcovIzmqTL63QZAswzpJua-Dx4WwXl0Y3wSiP0WLzNrvgf_Yndy47FAmStIVd1Z5bmiCSpJnBu1r1GYvT48l',
+     help_center_id: 0 },
+  error_subcode: 1346003,
+  error_user_msg: '',
+  fbtrace_id: 'ENkhpHHwe9H' }
+2017-12-19 09:50:02: senderId : 1814660568576532
+2017-12-19 09:50:02: 1814660568576532
+2017-12-19 09:50:03: senderId : 303926986763806
+2017-12-19 09:50:03: 303926986763806
+2017-12-19 09:50:04: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CkZr8tX9Mhb' }
+2017-12-19 09:50:04: senderId : 1814660568576532
+2017-12-19 09:54:14: senderId : 1814660568576532
+2017-12-19 09:54:15: senderId : 1814660568576532
+2017-12-19 09:54:15: 1814660568576532
+2017-12-19 09:54:16: senderId : 303926986763806
+2017-12-19 09:54:16: 303926986763806
+2017-12-19 09:54:16: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CO7vsPseqqU' }
+2017-12-19 09:54:17: senderId : 1814660568576532
+2017-12-19 09:54:17: senderId : 1814660568576532
+2017-12-19 09:54:31: senderId : 1814660568576532
+2017-12-19 09:54:31: 1814660568576532
+2017-12-19 09:54:32: senderId : 303926986763806
+2017-12-19 09:54:32: 303926986763806
+2017-12-19 09:54:32: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'AB4LY+S7x+y' }
+2017-12-19 09:54:32: senderId : 1814660568576532
+2017-12-19 09:54:42: senderId : 1814660568576532
+2017-12-19 09:54:48: senderId : 1814660568576532
+2017-12-19 09:54:48: 1814660568576532
+2017-12-19 09:54:49: senderId : 303926986763806
+2017-12-19 09:54:49: 303926986763806
+2017-12-19 09:54:50: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'CSusSp1QVE0' }
+2017-12-19 09:54:50: senderId : 1814660568576532
+2017-12-19 09:54:55: senderId : 1814660568576532
+2018-01-07 17:28:56: Inside index.js
+2018-01-07 17:28:58: Listening on port 8099
+2018-01-07 17:28:58: Error menu request :  { message: 'Your message couldn\'t be sent because it includes content that other people on Facebook have reported as abusive.',
+  type: 'OAuthException',
+  code: 368,
+  error_data: 
+   { sentry_block_data: 'AejHl7vwFNtUx9O4OXmq02mIWu_5uUr6U9HAvULF061P6DyJe9orqJ8Q8cVhnra9ANHrpOWHLLx_x9wTHvVXbt-baAsqxBT6UrundMiM16DPHBy5Ynowuv3JkmZTyunBTA99AJyzKCl1Y-p9C2J-oHhGNgFGSZEqbF-nZMv7t_Dpuc6kELToi6bzsZ-A8hS6q2EhLdVpWHcdmyaGamMnN0RYvV2VnZ9kDZ9p8QKJ4Y6VLOopwkW_xOobq3tmEl8_oE6wj0vDIpc_4xSG6H7AbjJXncKjUS9jiT4S2xd7SrONdFByMAOtQxVd2oA74sSapN-oscmrhEBY_I5KnIi7hffL',
+     help_center_id: 0 },
+  error_subcode: 1346003,
+  error_user_msg: '',
+  fbtrace_id: 'CGjn7clMOxv' }
+2018-01-16 17:02:29: senderId : 1814660568576532
+2018-01-16 17:02:29: 1814660568576532
+2018-01-16 17:02:30: senderId : 303926986763806
+2018-01-16 17:02:30: 303926986763806
+2018-01-16 17:02:30: Error here:  { message: '(#100) No matching user found',
+  type: 'OAuthException',
+  code: 100,
+  error_subcode: 2018001,
+  fbtrace_id: 'BUmG2ob98FL' }
+2018-01-16 17:02:30: senderId : 1814660568576532

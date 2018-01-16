@@ -1,0 +1,51 @@
+Getting room detail by status filter
+For full Room>>
+http://localhost:8778/getRoomDetailByFliter?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_beginner&roomStatus=full
+For empty Room >>
+http://localhost:8778/getRoomDetailByFliterl?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_beginner&roomStatus=empty
+For vacant Room>>
+http://localhost:8778/getRoomDetailByFliter?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_beginner&roomStatus=vacant
+b:banker
+i:room id
+min:minimum bet
+max:maximum bet
+n:room name
+--------------------------------------------
+Getting player count by room type
+http://localhost:8778/getPlayerCountByRoomType?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_inter
+c:player count
+i:room id
+n:room name
+-------------------------------------------
+Getting room id by room type with play now button
+http://localhost:8778/playNowByroomType?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_beginner
+======================
+Getting room id by min and max bet  with play now button
+http://localhost:8778/playNowByMinMaxBet?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&minBet=10&maxBet=300
+-------------------------------------------
+Getting all room detail with no filter
+http://localhost:8778/getRoomDetail?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1
+-------------------------------------------
+Getting player count by room type and room status
+http://localhost:8778/getPlayerCountByRoomTypeAndStatus?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomType=shan_beginner&roomStatus=vacant
+c:player count
+i:room id
+n:room name
+-------------------------------------------
+Getting room players by room id
+http://localhost:8778/getRoomPlayers?userId=4904047245&userToken=4904047245-55d767ce-1d6d-49de-9d8a-0619b24dc0a1&roomId=room_1003
+===========================================================================================
+Getting room id by room type with play now button
+http://localhost:8778/playNowByroomType?userId=4904047245&userToken=4904047245-de953b2f-01c3-409c-b3df-deb2abf876ba&roomType=shan_beginner
+-------------------
+Getting player count by room type and room status
+http://localhost:8778/getPlayerCountByRoomTypeAndStatus?userId=4904047245&userToken=4904047245-de953b2f-01c3-409c-b3df-deb2abf876ba&roomType=shan_beginner&roomStatus=vacant
+c:player count
+i:room id
+n:room name
+--------------------
+getting room detail 
+http://localhost:8778/getRoomDetail?userId=4904047245&userToken=4904047245-de953b2f-01c3-409c-b3df-deb2abf876ba
+--------------------
+Getting room players by room id
+http://localhost:8778/getRoomPlayers?userId=4904047245&userToken=4904047245-de953b2f-01c3-409c-b3df-deb2abf876ba&roomId=room_1003

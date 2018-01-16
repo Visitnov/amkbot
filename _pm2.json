@@ -1,0 +1,18 @@
+{
+  "apps" : [{
+    "name"               : "LittleHero bot Services",
+    "script"             : "./app.js",
+    "cwd"                : "/var/www/bot.mgnyi.win",
+    "exec_interpreter"   : "node",
+    "exec_mode"          : "cluster",
+    "instances"          : 1,
+    "log_date_format"    : "YYYY-MM-DD HH:mm:ss",
+    "max_memory_restart" : "150M",
+    "merge_logs"         : false,
+    "node_args"          : "",
+    "ignore_watch"       : ["./public", "./log", "./_log"],
+    "watch"              : false, // "./", // ["controllers","helpers","middlewares","models","views"],
+    "error_file" 	     : "./log/lithero-err.log",
+    "out_file"   	     : "./log/lithero-out.log"
+  }]
+}
