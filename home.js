@@ -1,6 +1,7 @@
 var express = require('express');  
 var bodyParser = require('body-parser');  
 var request = require('request');  
+var roomModel = require('./models/roomModel');
 var app = express();
 var human=0;
 app.use(bodyParser.urlencoded({extended: false}));  
@@ -77,6 +78,11 @@ app.get('/webhook', function (req, res) {
     } else {
         res.send('Invalid verify token');
     }
+});
+
+app.get('/getReply',function(req,res){
+    console.log(req.query);
+    roomModel.retrieveReplySql(req.query.request,function(err,resp){ res.send(resp)});
 });
 
 app.post('/webhook', function (req, res) {  

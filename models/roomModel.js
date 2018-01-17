@@ -1,28 +1,28 @@
-// const { Client } = require('pg');
+
+var db = require('../helpers/database');
 
 
-// const connectionString = !process.env.NODE_ENV ? "postgres://lynnphayu:@host:5432/lynnphayu" : process.env.DATABASE_URL;
-// const connectionString = "postgres://mwhtahtviakiyg:5bc6c570e87bdd4e35e1921e2313dffee57fff200f16905bd8705042eee397b6@ec2-107-21-95-70.compute-1.amazonaws.com:5432/df9m1g8lnp49v9";
-
-var request = require('request');
-var mysql      = require('mysql');
-var pool = mysql.createPool({
-  host     : 'localhost',
-  user     : 'root',
-  password : '',
-  database : 'chatbot',
-  multipleStatements: true
-});
-
-var getConnection = function(callback) {
-    pool.getConnection(function(err, connection) {
-        callback(err, connection);
+function getfirstlevel(id,callback){
+    const query = "SELECT * FROM bot WHERE request LIKE '__0%'";
+    db.getConnection(function (err, connection) {
+        if(err){
+            callback(err);
+        }else{
+            connection.query(query, function (err, result) {
+                connection.release();
+                if (err) {
+                    callback(err);
+                } else {
+                    callback(null,result);
+                }
+            });
+        }
     });
-};
- 
+}
+
 function retrieveReplySql(req,callback){
-    var query = "SELECT * FROM bot WHERE request='"+req+"';";   
-    getConnection(function (err, connection) {
+    const query = req === "Entry" ? "SELECT request FROM bot GROUP BY request" : "SELECT reply FROM bot WHERE request='" + req + "';";
+    db.getConnection(function (err, connection) {
         if(err){
             callback(err);
         }else{
@@ -108,8 +108,20 @@ function sendMessage(recipientId, message) {
 };
 
 
+
+
 retrieveReplySql('Download Link လုိခ်င္လုိ႔',function(err,res){ console.log(res)});
+//retrieveReplySql('Android ',function(err,res){ console.log(res)});
+//retrieveReplySql('IOS',function(err,res){ console.log(res)});
+//retrieveReplySql('PC/Web ',function(err,res){ console.log(res)});
+
+
+
+
 
 exports.retrieveReply = retrieveReply;
 exports.buttonMsg = buttonMsg;
 exports.sendMessage = sendMessage;
+exports.retrieveReplySql = retrieveReplySql;
+//exports.getConnection = getConnection;
+exports.getfirstlevel = getfirstlevel;
